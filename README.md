@@ -1,2 +1,3 @@
-# ProyectoGoogleColab
-Usamos una base de datos CSV en el cual la usaremos para obtener datos y al finalizar se mostrará la gráfica 
+#Analisis de un dataset enfocado a un ataque DDOS
+Este proyecto esta formado por los integrantes:
+Javier, Milton y Diego
