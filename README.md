@@ -1,2 +1,3 @@
-# ProyectoGoogleColab
-Usamos una base de datos CSV en el cual la usaremo
+# Proyecto de IA 2 de ASIR
+Este proyecto lo conforman:
+Javier, Diego y Milton
